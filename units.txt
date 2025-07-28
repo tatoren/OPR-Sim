@@ -1,0 +1,6 @@
+++ Saurian Starhost (v3.4.1) [GF 320pts] ++
+Gecko Cohort [10] Q5+ D5+ | 160pts | Fearless, Strider, 10x Energy Shield(Shield Wall)
+10x Shock Pistol (12", A1, AP(4)), 10x Bash (A1)
+
+Saurian Guardians [5] Q3+ D3+ | 160pts | Fearless, Predator
+5x Hammer (A2, AP(2))
